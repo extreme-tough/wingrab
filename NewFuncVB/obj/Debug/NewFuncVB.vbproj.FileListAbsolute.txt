@@ -1,0 +1,11 @@
+G:\WORK\WinGRAB\NewFuncVB\obj\Debug\ResolveAssemblyReference.cache
+G:\WORK\WinGRAB\NewFuncVB\obj\Debug\NewFuncVB.Resources.resources
+G:\WORK\WinGRAB\NewFuncVB\obj\Debug\NewFuncVB.SelectWindow.resources
+G:\WORK\WinGRAB\NewFuncVB\obj\Debug\NewFuncVB.vbproj.GenerateResource.Cache
+G:\WORK\WinGRAB\NewFuncVB\bin\Debug\NewFuncVB.exe
+G:\WORK\WinGRAB\NewFuncVB\bin\Debug\NewFuncVB.pdb
+G:\WORK\WinGRAB\NewFuncVB\bin\Debug\NewFuncVB.xml
+G:\WORK\WinGRAB\NewFuncVB\obj\Debug\NewFuncVB.exe
+G:\WORK\WinGRAB\NewFuncVB\obj\Debug\NewFuncVB.xml
+G:\WORK\WinGRAB\NewFuncVB\obj\Debug\NewFuncVB.pdb
+G:\WORK\WinGRAB\NewFuncVB\obj\Debug\NewFuncVB.Form1.resources

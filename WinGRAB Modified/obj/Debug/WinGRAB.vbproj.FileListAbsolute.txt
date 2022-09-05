@@ -1,0 +1,14 @@
+G:\WORK\WinGRAB\WinGRAB Modified\bin\Debug\WinGRAB.exe
+G:\WORK\WinGRAB\WinGRAB Modified\bin\Debug\WinGRAB.pdb
+G:\WORK\WinGRAB\WinGRAB Modified\bin\Debug\WinGRAB.xml
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Debug\ResolveAssemblyReference.cache
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Debug\WinGRAB.GetDateNFolder.resources
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Debug\WinGRAB.MainForm.resources
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Debug\WinGRAB.Resources.resources
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Debug\WinGRAB.SelectWindow.resources
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Debug\WinGRAB.vbproj.GenerateResource.Cache
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Debug\WinGRAB.exe
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Debug\WinGRAB.xml
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Debug\WinGRAB.pdb
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Debug\WinGRAB.Viewer.resources
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Debug\WinGRAB.CropDialog.resources

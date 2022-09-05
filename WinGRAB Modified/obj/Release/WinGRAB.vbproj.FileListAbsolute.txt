@@ -1,0 +1,14 @@
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Release\ResolveAssemblyReference.cache
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Release\WinGRAB.GetDateNFolder.resources
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Release\WinGRAB.MainForm.resources
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Release\WinGRAB.SelectWindow.resources
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Release\WinGRAB.vbproj.GenerateResource.Cache
+G:\WORK\WinGRAB\WinGRAB Modified\bin\Release\WinGRAB.exe
+G:\WORK\WinGRAB\WinGRAB Modified\bin\Release\WinGRAB.pdb
+G:\WORK\WinGRAB\WinGRAB Modified\bin\Release\WinGRAB.xml
+G:\WORK\WinGRAB\WinGRAB Modified\bin\Release\EnumWindows.dll
+G:\WORK\WinGRAB\WinGRAB Modified\bin\Release\WindowsHookLib.dll
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Release\WinGRAB.Resources.resources
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Release\WinGRAB.exe
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Release\WinGRAB.xml
+G:\WORK\WinGRAB\WinGRAB Modified\obj\Release\WinGRAB.pdb

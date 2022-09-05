@@ -1,0 +1,20 @@
+<settings>
+ <configset>
+  <name>Sample Setting 1</name>
+  <resize>MAX</resize>
+  <crop>0,0,200,200</crop>
+  <output>c:\output</output>
+ </configset>
+ <configset>
+  <name>Sample Setting 2</name>
+  <resize>1,1,800,645</resize>
+  <crop>NO</crop>
+  <output>%DESKTOP%\screenshots</output>
+ </configset>
+ <configset>
+  <name>Sample Setting 3</name>
+  <resize>1,1,1000,645</resize>
+  <crop>100,100,800,400</crop>
+  <output>c:\testoutput</output>
+ </configset>
+</settings>
